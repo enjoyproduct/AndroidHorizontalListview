@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Download(Browser)\Android\AndroidHorizonalListview\androidHorizontalListViewSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\Download(Browser)\Android\AndroidHorizonalListview\androidHorizontalListViewSample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_e053514fc5e080b30d9c62a5929fea4a1430ec97.jar" />
+    </item>
+    <item
+        jar="H:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\Download(Browser)\Android\AndroidHorizonalListview\androidHorizontalListViewSample\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_00abfa588fb366455ed5730b3d362ccd4a0e4c65.jar" />
+    </item>
+    <item
+        jar="E:\Download(Browser)\Android\AndroidHorizonalListview\androidHorizontalListViewSample\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\Download(Browser)\Android\AndroidHorizonalListview\androidHorizontalListViewSample\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_32d649cd09fbe4de8bb82c6ea1dffbb9ec7e2602.jar" />
+    </item>
+    <item
+        jar="E:\Download(Browser)\Android\AndroidHorizonalListview\androidHorizontalListViewSample\build\intermediates\exploded-aar\AndroidHorizonalListview\androidHorizontalListView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9c40481975181a01898bd6394539c0598bfd278d">
+        <dex dex="E:\Download(Browser)\Android\AndroidHorizonalListview\androidHorizontalListViewSample\build\intermediates\pre-dexed\debug\AndroidHorizonalListview-androidHorizontalListView-unspecified_4d8ccea5cf8ea56add2b87dd7825e0d45849bb2e.jar" />
+    </item>
+
+</items>

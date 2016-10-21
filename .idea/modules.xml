@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidHorizonalListview.iml" filepath="$PROJECT_DIR$/AndroidHorizonalListview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidHorizontalListView/androidHorizontalListView.iml" filepath="$PROJECT_DIR$/androidHorizontalListView/androidHorizontalListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidHorizontalListViewSample/androidHorizontalListViewSample.iml" filepath="$PROJECT_DIR$/androidHorizontalListViewSample/androidHorizontalListViewSample.iml" />
+    </modules>
+  </component>
+</project>
